@@ -10,7 +10,7 @@ import Header from "../Header/Header";
 
 const App = () => {
   return (
-    <div classname="ui container">
+    <div className="ui container">
       <Router>
         <div>
           <Header />
