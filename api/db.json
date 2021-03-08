@@ -4,6 +4,34 @@
       "title": "My stream",
       "description": "This is a great stream!",
       "id": 1
+    },
+    {
+      "title": "Your Stream!",
+      "description": "The best stream ever!",
+      "id": 2
+    },
+    {
+      "title": "I created this stream!",
+      "description": "This was made by me!",
+      "userId": "109105170681883072641",
+      "id": 3
+    },
+    {
+      "title": "Unexpected behavior!",
+      "description": "This is something new!",
+      "userId": "109105170681883072641",
+      "id": 4
+    },
+    {
+      "title": "Programmatic stream!",
+      "description": "Thi is  edited stream!",
+      "userId": "109105170681883072641",
+      "id": 5
+    },
+    {
+      "title": "Old Republic!",
+      "description": "Test",
+      "id": 6
     }
   ]
 }
